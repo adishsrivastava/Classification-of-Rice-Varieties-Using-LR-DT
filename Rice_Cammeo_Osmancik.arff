@@ -10,7 +10,7 @@
 @ATTRIBUTE Minor_Axis_Length Real
 @ATTRIBUTE Eccentricity	Real
 @ATTRIBUTE Convex_Area	Integer
-@ATTRIBUTE Extent Real
+@ATTRIBUTE Extent Re
 @ATTRIBUTE Class {Cammeo, Osmancik}
 
 @DATA
